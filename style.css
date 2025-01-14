@@ -8,6 +8,10 @@ h1{
     font-weight: bold;
     color:blue;
 }
+h3{
+    font-size: large;
+    color:brown
+}
 h6{
     color: blueviolet;
     background-color: aquamarine;
